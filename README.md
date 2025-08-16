@@ -1,6 +1,6 @@
 # Gym Management System – Software Design Project
 
----
+
 
 ## 📖 Overview
 This project is a **Software Design Specification (SDS)** for a Gym Management System.  
