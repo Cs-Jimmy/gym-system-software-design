@@ -32,8 +32,8 @@ It demonstrates how software engineering methodology can be applied to design a 
 
 ---
 ## 👥 Team
-- Rabab Mohamed Abd El-gafour Okasha  
-- Jumanah Muhammad Ali  
-- Malak Mostafa Abd El-maboud  
-- Nour Hassan Mahmoud  
+- Rabab Mohamed
+- Jumanah Muhammad 
+- Malak Mostafa  
+- Nour Hassan
 
